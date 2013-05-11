@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg9054"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="json_send_email.svg">
+  <defs
+     id="defs9056" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="520.42607"
+     inkscape:cy="384"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1693"
+     inkscape:window-height="1014"
+     inkscape:window-x="157"
+     inkscape:window-y="98"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata9059">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="245"
+       y="154"
+       id="text9064"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9066"
+         x="245"
+         y="154"
+         style="font-size:28px">{</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="189"
+         id="tspan9068"
+         style="font-size:28px">  rid: <tspan
+   style="fill:#008000"
+   id="tspan9259">5</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="224"
+         id="tspan9070"
+         style="font-size:28px">  platform: <tspan
+   style="fill:#800000"
+   id="tspan9261">&quot;facebook&quot;</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="259"
+         id="tspan9072"
+         style="font-size:28px">  verb: <tspan
+   style="fill:#800000"
+   id="tspan9263">&quot;post&quot;</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="294"
+         id="tspan9074"
+         style="font-size:28px">  actor: {</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="329"
+         id="tspan9076"
+         style="font-size:28px">    address: <tspan
+   style="fill:#800000"
+   id="tspan9265">&quot;zuck&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="364"
+         id="tspan9094"
+         style="font-size:28px">  },</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="399"
+         style="font-size:28px"
+         id="tspan9100">  object: {</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="434"
+         style="font-size:28px"
+         id="tspan9102">    text: <tspan
+   style="fill:#800000"
+   id="tspan9269">&quot;hello Facebook friends!&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="469"
+         style="font-size:28px"
+         id="tspan9104">  }</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="504"
+         style="font-size:28px"
+         id="tspan9106">}</tspan><tspan
+         sodipodi:role="line"
+         x="245"
+         y="539"
+         id="tspan9098"
+         style="font-size:28px" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9108"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion9110"><rect
+           id="rect9112"
+           width="43"
+           height="558"
+           x="181"
+           y="161" /></flowRegion><flowPara
+         id="flowPara9114"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9116"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion9118"><rect
+           id="rect9120"
+           width="525"
+           height="620"
+           x="152"
+           y="130" /></flowRegion><flowPara
+         id="flowPara9122"></flowPara></flowRoot>  </g>
+</svg>
